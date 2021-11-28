@@ -1,0 +1,5 @@
+Wadsworth Falls; 7, Granny Apple Circle, Ridge, New York, 11961; 3.6; 364; LOOP; EASY
+Sleeping Giant; 10, Granny Apple Circle, Ridge, New York, 11961; 8.0; 1692; LOOP; HARD
+Devil's Oven; 23, Rocky Mountain st, Elmsford, Conneticut, 11871; 2.2; 462; LOOP; MODERATE
+Zoar Trail; 19, Whiskey orange st, Shirley, Stony Brook, 11891; 7.0; 200; POINT_TO_POINT; MODERATE
+Devil's anus; 20, Knowhere Ragnarok rd, Hogwarts, England, 400021; 8.3; 332; OUT_AND_BACK; HARD
